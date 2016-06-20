@@ -48,9 +48,9 @@
 		<key>Production</key>
 		<string>http://www.gigigo.com</string>
 		<key>Quality</key>
-		<string>www.google.es</string>
+		<string>http://www.google.es</string>
 		<key>Staging</key>
-		<string>www.realmadrid.com</string>
+		<string>http://www.realmadrid.com</string>
 	</dict>
 	<key>Facebook_ID</key>
 	<string>${FacebookID}</string>
