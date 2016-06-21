@@ -26,12 +26,12 @@
                   moduleName = "ConfigFilesDemo"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Volumes/DATOS/Marlos/Proyectos/ConfigFilesDemo/ConfigFilesDemo/ViewController/ViewController.swift"
-                  timestampString = "488064896.288274"
+                  timestampString = "488241100.319757"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "52"
                   endingLineNumber = "52"
-                  offsetFromSymbolStart = "1249">
+                  offsetFromSymbolStart = "38">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -41,12 +41,12 @@
                   moduleName = "ConfigFilesDemo"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Volumes/DATOS/Marlos/Proyectos/ConfigFilesDemo/ConfigFilesDemo/ViewController/ViewController.swift"
-                  timestampString = "488064896.288022"
+                  timestampString = "488241100.319969"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "52"
                   endingLineNumber = "52"
-                  offsetFromSymbolStart = "38">
+                  offsetFromSymbolStart = "1249">
                </Location>
             </Locations>
          </BreakpointContent>
