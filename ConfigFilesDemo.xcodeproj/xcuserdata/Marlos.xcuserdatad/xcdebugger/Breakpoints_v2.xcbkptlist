@@ -17,38 +17,38 @@
             endingLineNumber = "52"
             landmarkName = "openEnvironmentURL()"
             landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "ConfigFilesDemo.ViewController.openEnvironmentURL () -&gt; ()"
-                  moduleName = "ConfigFilesDemo"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/DATOS/Marlos/Proyectos/ConfigFilesDemo/ConfigFilesDemo/ViewController/ViewController.swift"
-                  timestampString = "488064896.288274"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "52"
-                  endingLineNumber = "52"
-                  offsetFromSymbolStart = "1249">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "ConfigFilesDemo.ViewController.openEnvironmentURL () -&gt; ()"
-                  moduleName = "ConfigFilesDemo"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/DATOS/Marlos/Proyectos/ConfigFilesDemo/ConfigFilesDemo/ViewController/ViewController.swift"
-                  timestampString = "488064896.288022"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "52"
-                  endingLineNumber = "52"
-                  offsetFromSymbolStart = "38">
-               </Location>
-            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConfigFilesDemo/Model/PListParser.swift"
+            timestampString = "488240693.375177"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "readAppConfigurationFromPlist()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConfigFilesDemo/Model/PListParser.swift"
+            timestampString = "488240693.375177"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "readAppConfigurationFromPlist()"
+            landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

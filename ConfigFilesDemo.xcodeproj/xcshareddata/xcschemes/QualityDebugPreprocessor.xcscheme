@@ -23,31 +23,11 @@
       </BuildActionEntries>
    </BuildAction>
    <TestAction
-      buildConfiguration = "ConfigDemoStagingDebug"
+      buildConfiguration = "ProductionReleasePlist"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "09B1FC721D158F670001C427"
-               BuildableName = "ConfigFilesDemoTests.xctest"
-               BlueprintName = "ConfigFilesDemoTests"
-               ReferencedContainer = "container:ConfigFilesDemo.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "09B1FC7D1D158F670001C427"
-               BuildableName = "ConfigFilesDemoUITests.xctest"
-               BlueprintName = "ConfigFilesDemoUITests"
-               ReferencedContainer = "container:ConfigFilesDemo.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
@@ -62,7 +42,7 @@
       </AdditionalOptions>
    </TestAction>
    <LaunchAction
-      buildConfiguration = "ConfigDemoQualityDebug"
+      buildConfiguration = "QualityDebugPreprocessor"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
@@ -81,11 +61,33 @@
             ReferencedContainer = "container:ConfigFilesDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <EnvironmentVariables>
+         <EnvironmentVariable
+            key = "PRODUCTION"
+            value = "0"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+         <EnvironmentVariable
+            key = "QUALITY"
+            value = "1"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+         <EnvironmentVariable
+            key = "STAGING"
+            value = "0"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+         <EnvironmentVariable
+            key = "SELECTED_ENVIRONMENT_FROM_PLIST"
+            value = "0"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+      </EnvironmentVariables>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
-      buildConfiguration = "ConfigDemoStagingDebug"
+      buildConfiguration = "ProductionReleasePlist"
       shouldUseLaunchSchemeArgsEnv = "YES"
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
@@ -102,10 +104,10 @@
       </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
-      buildConfiguration = "ConfigDemoStagingDebug">
+      buildConfiguration = "ProductionReleasePlist">
    </AnalyzeAction>
    <ArchiveAction
-      buildConfiguration = "ConfigDemoStagingDebug"
+      buildConfiguration = "ProductionReleasePlist"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>

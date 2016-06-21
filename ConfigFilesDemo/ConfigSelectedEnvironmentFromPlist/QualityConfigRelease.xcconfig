@@ -1,0 +1,18 @@
+//
+//  QualityConfigRelease.xcconfig
+//  ConfigFilesDemo
+//
+//  Created by Carlos M. Vicente Herrero on 18/6/16.
+//  Copyright © 2016 Carlos M. Vicente Herrero. All rights reserved.
+//
+
+// APP CUSTOMIZATION
+APP_NAME = DemoQualityReleasePlist
+BUNDLE_ID = plist.demo.quality.release
+ENVIRONMENT = Quality
+FacebookID = FB_Quality_ReleasePlist
+NotificationsID = PushIDQualityReleasePlist
+
+// SIGNING
+CODE_SIGN_IDENTITY = iPhone Developer: cmvicentehe@gmail.com (L9HSJLDFND)
+PROVISIONING_PROFILE = ProvProfQualityReleasePlist

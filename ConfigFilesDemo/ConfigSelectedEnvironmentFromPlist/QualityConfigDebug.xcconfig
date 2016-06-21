@@ -1,0 +1,18 @@
+//
+//  QualityConfigDebug.xcconfig
+//  ConfigFilesDemo
+//
+//  Created by Carlos M. Vicente Herrero on 18/6/16.
+//  Copyright © 2016 Carlos M. Vicente Herrero. All rights reserved.
+//
+
+// APP CUSTOMIZATION
+APP_NAME = DemoQualityDebugPlist
+BUNDLE_ID = plist.demo.quality.debug
+ENVIRONMENT = Quality
+FacebookID = FB_Quality_DebugPlist
+NotificationsID = PushIDQualityDebugPlist
+
+// SIGNING
+CODE_SIGN_IDENTITY = iPhone Developer: cmvicentehe@gmail.com (L9HSJLDFND)
+PROVISIONING_PROFILE = ProvProfQualityDebugPlist

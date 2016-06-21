@@ -1,0 +1,18 @@
+//
+//  ProductionConfigDebug.xcconfig
+//  ConfigFilesDemo
+//
+//  Created by Carlos M. Vicente Herrero on 18/6/16.
+//  Copyright © 2016 Carlos M. Vicente Herrero. All rights reserved.
+//
+
+// APP CUSTOMIZATION
+APP_NAME = DemoProdDebugPlist
+BUNDLE_ID = plist.demo.prod.debug
+ENVIRONMENT = Production
+FacebookID = FB_Prod_DebugPlist
+NotificationsID = PushIDProdDebugPlist
+
+// SIGNING
+CODE_SIGN_IDENTITY = iPhone Developer: cmvicentehe@gmail.com (L9HSJLDFND)
+PROVISIONING_PROFILE = ProvProfProdDebugPlist
