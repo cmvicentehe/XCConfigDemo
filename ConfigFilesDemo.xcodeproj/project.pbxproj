@@ -19,6 +19,7 @@
 		09B1FCAE1D15D5990001C427 /* QualityConfigRelease.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 09B1FCAB1D15D5990001C427 /* QualityConfigRelease.xcconfig */; };
 		09B1FCAF1D15D5990001C427 /* StagingConfigRelease.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 09B1FCAC1D15D5990001C427 /* StagingConfigRelease.xcconfig */; };
 		09B1FCB11D15EECA0001C427 /* Environment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09B1FCB01D15EECA0001C427 /* Environment.swift */; };
+		8FFF5A9D1D1A69500096F834 /* PListParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFF5A9C1D1A69500096F834 /* PListParser.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		09B1FCAB1D15D5990001C427 /* QualityConfigRelease.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = QualityConfigRelease.xcconfig; sourceTree = "<group>"; };
 		09B1FCAC1D15D5990001C427 /* StagingConfigRelease.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = StagingConfigRelease.xcconfig; sourceTree = "<group>"; };
 		09B1FCB01D15EECA0001C427 /* Environment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Environment.swift; sourceTree = "<group>"; };
+		8FFF5A9C1D1A69500096F834 /* PListParser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PListParser.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,6 +165,7 @@
 			children = (
 				09B1FC961D15BDAF0001C427 /* AppConfiguration.swift */,
 				09B1FCB01D15EECA0001C427 /* Environment.swift */,
+				8FFF5A9C1D1A69500096F834 /* PListParser.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -322,6 +325,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				09B1FCA61D15BDAF0001C427 /* ViewController.swift in Sources */,
+				8FFF5A9D1D1A69500096F834 /* PListParser.swift in Sources */,
 				09B1FCB11D15EECA0001C427 /* Environment.swift in Sources */,
 				09B1FCA11D15BDAF0001C427 /* AppConfiguration.swift in Sources */,
 				09B1FCA01D15BDAF0001C427 /* AppDelegate.swift in Sources */,
