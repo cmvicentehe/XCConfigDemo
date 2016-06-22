@@ -477,7 +477,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "${CODE_SIGN_IDENTITY}";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "${CODE_SIGN_IDENTITY}";
-				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
+				GCC_PREPROCESSOR_DEFINITIONS = "${GCC_PREPROCESSOR_DEFINITIONS}";
 				INFOPLIST_FILE = ConfigFilesDemo/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cmvicentehe.configFiles.ConfigFilesDemo;
@@ -565,7 +565,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "${CODE_SIGN_IDENTITY}";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "${CODE_SIGN_IDENTITY}";
-				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
+				GCC_PREPROCESSOR_DEFINITIONS = "${GCC_PREPROCESSOR_DEFINITIONS}";
 				INFOPLIST_FILE = ConfigFilesDemo/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cmvicentehe.configFiles.ConfigFilesDemo;
@@ -653,7 +653,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "${CODE_SIGN_IDENTITY}";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "${CODE_SIGN_IDENTITY}";
-				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
+				GCC_PREPROCESSOR_DEFINITIONS = "${GCC_PREPROCESSOR_DEFINITIONS}";
 				INFOPLIST_FILE = ConfigFilesDemo/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cmvicentehe.configFiles.ConfigFilesDemo;
@@ -741,7 +741,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "${CODE_SIGN_IDENTITY}";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "${CODE_SIGN_IDENTITY}";
-				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
+				GCC_PREPROCESSOR_DEFINITIONS = "${GCC_PREPROCESSOR_DEFINITIONS}";
 				INFOPLIST_FILE = ConfigFilesDemo/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cmvicentehe.configFiles.ConfigFilesDemo;
@@ -829,7 +829,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "${CODE_SIGN_IDENTITY}";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "${CODE_SIGN_IDENTITY}";
-				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
+				GCC_PREPROCESSOR_DEFINITIONS = "${GCC_PREPROCESSOR_DEFINITIONS}";
 				INFOPLIST_FILE = ConfigFilesDemo/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cmvicentehe.configFiles.ConfigFilesDemo;
@@ -917,7 +917,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "${CODE_SIGN_IDENTITY}";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "${CODE_SIGN_IDENTITY}";
-				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
+				GCC_PREPROCESSOR_DEFINITIONS = "${GCC_PREPROCESSOR_DEFINITIONS}";
 				INFOPLIST_FILE = ConfigFilesDemo/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cmvicentehe.configFiles.ConfigFilesDemo;
@@ -1005,7 +1005,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "${CODE_SIGN_IDENTITY}";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "${CODE_SIGN_IDENTITY}";
-				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
+				GCC_PREPROCESSOR_DEFINITIONS = "${GCC_PREPROCESSOR_DEFINITIONS}";
 				INFOPLIST_FILE = ConfigFilesDemo/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cmvicentehe.configFiles.ConfigFilesDemo;
@@ -1093,7 +1093,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "${CODE_SIGN_IDENTITY}";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "${CODE_SIGN_IDENTITY}";
-				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
+				GCC_PREPROCESSOR_DEFINITIONS = "${GCC_PREPROCESSOR_DEFINITIONS}";
 				INFOPLIST_FILE = ConfigFilesDemo/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cmvicentehe.configFiles.ConfigFilesDemo;
@@ -1181,7 +1181,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "${CODE_SIGN_IDENTITY}";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "${CODE_SIGN_IDENTITY}";
-				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
+				GCC_PREPROCESSOR_DEFINITIONS = "${GCC_PREPROCESSOR_DEFINITIONS}";
 				INFOPLIST_FILE = ConfigFilesDemo/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cmvicentehe.configFiles.ConfigFilesDemo;
@@ -1269,7 +1269,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "${CODE_SIGN_IDENTITY}";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "${CODE_SIGN_IDENTITY}";
-				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
+				GCC_PREPROCESSOR_DEFINITIONS = "${GCC_PREPROCESSOR_DEFINITIONS}";
 				INFOPLIST_FILE = ConfigFilesDemo/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cmvicentehe.configFiles.ConfigFilesDemo;
@@ -1357,7 +1357,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "${CODE_SIGN_IDENTITY}";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "${CODE_SIGN_IDENTITY}";
-				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
+				GCC_PREPROCESSOR_DEFINITIONS = "${GCC_PREPROCESSOR_DEFINITIONS}";
 				INFOPLIST_FILE = ConfigFilesDemo/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cmvicentehe.configFiles.ConfigFilesDemo;
@@ -1445,7 +1445,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "${CODE_SIGN_IDENTITY}";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "${CODE_SIGN_IDENTITY}";
-				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
+				GCC_PREPROCESSOR_DEFINITIONS = "${GCC_PREPROCESSOR_DEFINITIONS}";
 				INFOPLIST_FILE = ConfigFilesDemo/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cmvicentehe.configFiles.ConfigFilesDemo;
